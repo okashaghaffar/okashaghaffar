@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okashaghaffar" alt="okashaghaffar" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Web scrapping EDA**
+- 🔭 I’m currently working on **Real Time Web scrapping EDA With Selenium**
 
 - 🌱 I’m currently learning **Tensorflow ,PyTorch ,CV and NLP**
 
