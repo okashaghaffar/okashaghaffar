@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/okashaghaffar/](https://github.com/okashaghaffar/)
 
-- 💬 Ask me about **django,react,flask,FASTApi,Docker,SQL and NOSQL**
+- 💬 Ask me about **django,React,flask,FASTApi,Docker,React Native,SQL and NOSQL**
 
 - 📫 How to reach me **okashabinghaffar6@gmail.com**
 
